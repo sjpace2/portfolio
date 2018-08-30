@@ -2824,7 +2824,7 @@ input, select, textarea {
 		display: flex;
 		cursor: default;
 		list-style: none;
-		margin-left: -1rem;
+		margin-left: -2rem;
 		padding-left: 0;
 	}
 
@@ -3212,7 +3212,7 @@ input, select, textarea {
 			}
 
 			.post.alt > .content {
-				padding: 4rem 0 4rem 3rem;
+				padding: 4rem 0 4rem 1rem;
 			}
 
 			.post.style2 > .content {
@@ -4628,6 +4628,7 @@ input, select, textarea {
 	}
 	.gallery {
 		margin: 5px;
+		margin-left: 36px;
 		/* border: 1px solid #ccc; */
 		float: left;
 		width: 180px;
